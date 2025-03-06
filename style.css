@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1, h2 {
+    text-align: center;
+    margin-top: 17vw;
+}
+h3, p {
+    margin: 3vw;
+}
